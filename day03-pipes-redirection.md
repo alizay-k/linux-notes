@@ -35,8 +35,8 @@ grep -c — count matches
 
 ## Redirection
 
-> overwrites file
->> appends to file
+(>) overwrites file
+(>>) appends to file
 
 ## Pipes
 
@@ -50,7 +50,7 @@ cat servers.txt | sort | uniq | grep -v "backup" | wc -l > final_count.txt
 ## Confidence question answer
 
 [1.The difference between > ,>> is > used for over writing and >> for appending at the end of the file.
-> this can destroy the work because it erases the earlier content and write new one to the file.
+(>) this can destroy the work because it erases the earlier content and write new one to the file.
 2.cat file.txt | sort | uniq | wc -l this pipeline take the content from file.txt sort it
 alphabetically take only the unique lines and then count those unique lines.
 3.I will use tail -f web.log because it will print the line as they are writen to the file and show it on screen.
