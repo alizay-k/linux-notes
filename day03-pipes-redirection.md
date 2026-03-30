@@ -60,7 +60,7 @@ alphabetically take only the unique lines and then count those unique lines.
 The pipes topic felts easy because it done so many thing in one command
 
 ## What felt confusing
-In tdays learning nothing felt confusing.
+In todays learning nothing felt confusing.But just to strengthen my own learning because of today dense material I did some extra excercises.
 
 ## Extra things I figured out on my own
 
